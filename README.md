@@ -1,4 +1,10 @@
 # react-router
+A simple website that uses react router for a navigation that contains links to different pages. These pages also have components:- 
+homepage-navbar/dropdown(responsive navbar), hero, content, footer;
+menu-navbar/dropdown(responsive navbar), footer;
+about-navbar/dropdown(responsive navbar), footer;
+contact-navbar/dropdown(responsive navbar), footer.
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
